@@ -1,0 +1,21 @@
+name: center_loading
+description: A useful collection of widgets to display loading states
+version: 0.0.1
+homepage: https://www.quantos.it
+repository: https://github.com/quantosapplications/center_loading
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter: null
+
